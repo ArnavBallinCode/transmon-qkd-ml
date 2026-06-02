@@ -1,0 +1,3876 @@
+Target
+Number of qubits: 156
+Instructions:
+	rz
+		(0,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(1,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(2,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(3,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(4,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(5,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(6,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(7,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(8,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(9,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(10,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(11,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(12,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(13,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(14,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(15,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(16,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(17,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(18,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(19,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(20,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(21,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(22,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(23,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(24,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(25,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(26,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(27,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(28,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(29,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(30,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(31,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(32,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(33,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(34,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(35,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(36,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(37,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(38,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(39,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(40,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(41,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(42,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(43,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(44,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(45,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(46,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(47,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(48,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(49,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(50,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(51,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(52,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(53,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(54,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(55,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(56,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(57,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(58,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(59,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(60,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(61,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(62,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(63,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(64,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(65,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(66,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(67,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(68,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(69,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(70,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(71,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(72,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(73,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(74,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(75,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(76,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(77,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(78,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(79,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(80,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(81,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(82,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(83,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(84,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(85,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(86,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(87,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(88,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(89,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(90,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(91,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(92,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(93,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(94,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(95,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(96,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(97,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(98,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(99,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(100,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(101,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(102,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(103,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(104,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(105,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(106,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(107,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(108,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(109,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(110,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(111,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(112,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(113,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(114,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(115,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(116,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(117,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(118,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(119,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(120,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(121,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(122,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(123,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(124,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(125,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(126,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(127,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(128,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(129,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(130,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(131,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(132,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(133,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(134,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(135,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(136,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(137,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(138,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(139,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(140,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(141,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(142,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(143,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(144,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(145,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(146,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(147,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(148,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(149,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(150,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(151,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(152,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(153,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(154,):
+			Duration: 0 sec.
+			Error Rate: 0
+		(155,):
+			Duration: 0 sec.
+			Error Rate: 0
+	reset
+		(0,):
+			Duration: 2.72e-06 sec.
+		(1,):
+			Duration: 2.72e-06 sec.
+		(2,):
+			Duration: 2.72e-06 sec.
+		(3,):
+			Duration: 2.72e-06 sec.
+		(4,):
+			Duration: 2.72e-06 sec.
+		(5,):
+			Duration: 2.72e-06 sec.
+		(6,):
+			Duration: 2.72e-06 sec.
+		(7,):
+			Duration: 2.72e-06 sec.
+		(8,):
+			Duration: 2.72e-06 sec.
+		(9,):
+			Duration: 2.72e-06 sec.
+		(10,):
+			Duration: 2.72e-06 sec.
+		(11,):
+			Duration: 2.72e-06 sec.
+		(12,):
+			Duration: 2.72e-06 sec.
+		(13,):
+			Duration: 2.72e-06 sec.
+		(14,):
+			Duration: 2.72e-06 sec.
+		(15,):
+			Duration: 2.72e-06 sec.
+		(16,):
+			Duration: 2.72e-06 sec.
+		(17,):
+			Duration: 2.72e-06 sec.
+		(18,):
+			Duration: 2.72e-06 sec.
+		(19,):
+			Duration: 2.72e-06 sec.
+		(20,):
+			Duration: 2.72e-06 sec.
+		(21,):
+			Duration: 2.72e-06 sec.
+		(22,):
+			Duration: 2.72e-06 sec.
+		(23,):
+			Duration: 2.72e-06 sec.
+		(24,):
+			Duration: 2.72e-06 sec.
+		(25,):
+			Duration: 2.72e-06 sec.
+		(26,):
+			Duration: 2.72e-06 sec.
+		(27,):
+			Duration: 2.72e-06 sec.
+		(28,):
+			Duration: 2.72e-06 sec.
+		(29,):
+			Duration: 2.72e-06 sec.
+		(30,):
+			Duration: 2.72e-06 sec.
+		(31,):
+			Duration: 2.72e-06 sec.
+		(32,):
+			Duration: 2.72e-06 sec.
+		(33,):
+			Duration: 2.72e-06 sec.
+		(34,):
+			Duration: 2.72e-06 sec.
+		(35,):
+			Duration: 2.72e-06 sec.
+		(36,):
+			Duration: 2.72e-06 sec.
+		(37,):
+			Duration: 2.72e-06 sec.
+		(38,):
+			Duration: 2.72e-06 sec.
+		(39,):
+			Duration: 2.72e-06 sec.
+		(40,):
+			Duration: 2.72e-06 sec.
+		(41,):
+			Duration: 2.72e-06 sec.
+		(42,):
+			Duration: 2.72e-06 sec.
+		(43,):
+			Duration: 2.72e-06 sec.
+		(44,):
+			Duration: 2.72e-06 sec.
+		(45,):
+			Duration: 2.72e-06 sec.
+		(46,):
+			Duration: 2.72e-06 sec.
+		(47,):
+			Duration: 2.72e-06 sec.
+		(48,):
+			Duration: 2.72e-06 sec.
+		(49,):
+			Duration: 2.72e-06 sec.
+		(50,):
+			Duration: 2.72e-06 sec.
+		(51,):
+			Duration: 2.72e-06 sec.
+		(52,):
+			Duration: 2.72e-06 sec.
+		(53,):
+			Duration: 2.72e-06 sec.
+		(54,):
+			Duration: 2.72e-06 sec.
+		(55,):
+			Duration: 2.72e-06 sec.
+		(56,):
+			Duration: 2.72e-06 sec.
+		(57,):
+			Duration: 2.72e-06 sec.
+		(58,):
+			Duration: 2.72e-06 sec.
+		(59,):
+			Duration: 2.72e-06 sec.
+		(60,):
+			Duration: 2.72e-06 sec.
+		(61,):
+			Duration: 2.72e-06 sec.
+		(62,):
+			Duration: 2.72e-06 sec.
+		(63,):
+			Duration: 2.72e-06 sec.
+		(64,):
+			Duration: 2.72e-06 sec.
+		(65,):
+			Duration: 2.72e-06 sec.
+		(66,):
+			Duration: 2.72e-06 sec.
+		(67,):
+			Duration: 2.72e-06 sec.
+		(68,):
+			Duration: 2.72e-06 sec.
+		(69,):
+			Duration: 2.72e-06 sec.
+		(70,):
+			Duration: 2.72e-06 sec.
+		(71,):
+			Duration: 2.72e-06 sec.
+		(72,):
+			Duration: 2.72e-06 sec.
+		(73,):
+			Duration: 2.72e-06 sec.
+		(74,):
+			Duration: 2.72e-06 sec.
+		(75,):
+			Duration: 2.72e-06 sec.
+		(76,):
+			Duration: 2.72e-06 sec.
+		(77,):
+			Duration: 2.72e-06 sec.
+		(78,):
+			Duration: 2.72e-06 sec.
+		(79,):
+			Duration: 2.72e-06 sec.
+		(80,):
+			Duration: 2.72e-06 sec.
+		(81,):
+			Duration: 2.72e-06 sec.
+		(82,):
+			Duration: 2.72e-06 sec.
+		(83,):
+			Duration: 2.72e-06 sec.
+		(84,):
+			Duration: 2.72e-06 sec.
+		(85,):
+			Duration: 2.72e-06 sec.
+		(86,):
+			Duration: 2.72e-06 sec.
+		(87,):
+			Duration: 2.72e-06 sec.
+		(88,):
+			Duration: 2.72e-06 sec.
+		(89,):
+			Duration: 2.72e-06 sec.
+		(90,):
+			Duration: 2.72e-06 sec.
+		(91,):
+			Duration: 2.72e-06 sec.
+		(92,):
+			Duration: 2.72e-06 sec.
+		(93,):
+			Duration: 2.72e-06 sec.
+		(94,):
+			Duration: 2.72e-06 sec.
+		(95,):
+			Duration: 2.72e-06 sec.
+		(96,):
+			Duration: 2.72e-06 sec.
+		(97,):
+			Duration: 2.72e-06 sec.
+		(98,):
+			Duration: 2.72e-06 sec.
+		(99,):
+			Duration: 2.72e-06 sec.
+		(100,):
+			Duration: 2.72e-06 sec.
+		(101,):
+			Duration: 2.72e-06 sec.
+		(102,):
+			Duration: 2.72e-06 sec.
+		(103,):
+			Duration: 2.72e-06 sec.
+		(104,):
+			Duration: 2.72e-06 sec.
+		(105,):
+			Duration: 2.72e-06 sec.
+		(106,):
+			Duration: 2.72e-06 sec.
+		(107,):
+			Duration: 2.72e-06 sec.
+		(108,):
+			Duration: 2.72e-06 sec.
+		(109,):
+			Duration: 2.72e-06 sec.
+		(110,):
+			Duration: 2.72e-06 sec.
+		(111,):
+			Duration: 2.72e-06 sec.
+		(112,):
+			Duration: 2.72e-06 sec.
+		(113,):
+			Duration: 2.72e-06 sec.
+		(114,):
+			Duration: 2.72e-06 sec.
+		(115,):
+			Duration: 2.72e-06 sec.
+		(116,):
+			Duration: 2.72e-06 sec.
+		(117,):
+			Duration: 2.72e-06 sec.
+		(118,):
+			Duration: 2.72e-06 sec.
+		(119,):
+			Duration: 2.72e-06 sec.
+		(120,):
+			Duration: 2.72e-06 sec.
+		(121,):
+			Duration: 2.72e-06 sec.
+		(122,):
+			Duration: 2.72e-06 sec.
+		(123,):
+			Duration: 2.72e-06 sec.
+		(124,):
+			Duration: 2.72e-06 sec.
+		(125,):
+			Duration: 2.72e-06 sec.
+		(126,):
+			Duration: 2.72e-06 sec.
+		(127,):
+			Duration: 2.72e-06 sec.
+		(128,):
+			Duration: 2.72e-06 sec.
+		(129,):
+			Duration: 2.72e-06 sec.
+		(130,):
+			Duration: 2.72e-06 sec.
+		(131,):
+			Duration: 2.72e-06 sec.
+		(132,):
+			Duration: 2.72e-06 sec.
+		(133,):
+			Duration: 2.72e-06 sec.
+		(134,):
+			Duration: 2.72e-06 sec.
+		(135,):
+			Duration: 2.72e-06 sec.
+		(136,):
+			Duration: 2.72e-06 sec.
+		(137,):
+			Duration: 2.72e-06 sec.
+		(138,):
+			Duration: 2.72e-06 sec.
+		(139,):
+			Duration: 2.72e-06 sec.
+		(140,):
+			Duration: 2.72e-06 sec.
+		(141,):
+			Duration: 2.72e-06 sec.
+		(142,):
+			Duration: 2.72e-06 sec.
+		(143,):
+			Duration: 2.72e-06 sec.
+		(144,):
+			Duration: 2.72e-06 sec.
+		(145,):
+			Duration: 2.72e-06 sec.
+		(146,):
+			Duration: 2.72e-06 sec.
+		(147,):
+			Duration: 2.72e-06 sec.
+		(148,):
+			Duration: 2.72e-06 sec.
+		(149,):
+			Duration: 2.72e-06 sec.
+		(150,):
+			Duration: 2.72e-06 sec.
+		(151,):
+			Duration: 2.72e-06 sec.
+		(152,):
+			Duration: 2.72e-06 sec.
+		(153,):
+			Duration: 2.72e-06 sec.
+		(154,):
+			Duration: 2.72e-06 sec.
+		(155,):
+			Duration: 2.72e-06 sec.
+	delay
+		(0,)
+		(1,)
+		(2,)
+		(3,)
+		(4,)
+		(5,)
+		(6,)
+		(7,)
+		(8,)
+		(9,)
+		(10,)
+		(11,)
+		(12,)
+		(13,)
+		(14,)
+		(15,)
+		(16,)
+		(17,)
+		(18,)
+		(19,)
+		(20,)
+		(21,)
+		(22,)
+		(23,)
+		(24,)
+		(25,)
+		(26,)
+		(27,)
+		(28,)
+		(29,)
+		(30,)
+		(31,)
+		(32,)
+		(33,)
+		(34,)
+		(35,)
+		(36,)
+		(37,)
+		(38,)
+		(39,)
+		(40,)
+		(41,)
+		(42,)
+		(43,)
+		(44,)
+		(45,)
+		(46,)
+		(47,)
+		(48,)
+		(49,)
+		(50,)
+		(51,)
+		(52,)
+		(53,)
+		(54,)
+		(55,)
+		(56,)
+		(57,)
+		(58,)
+		(59,)
+		(60,)
+		(61,)
+		(62,)
+		(63,)
+		(64,)
+		(65,)
+		(66,)
+		(67,)
+		(68,)
+		(69,)
+		(70,)
+		(71,)
+		(72,)
+		(73,)
+		(74,)
+		(75,)
+		(76,)
+		(77,)
+		(78,)
+		(79,)
+		(80,)
+		(81,)
+		(82,)
+		(83,)
+		(84,)
+		(85,)
+		(86,)
+		(87,)
+		(88,)
+		(89,)
+		(90,)
+		(91,)
+		(92,)
+		(93,)
+		(94,)
+		(95,)
+		(96,)
+		(97,)
+		(98,)
+		(99,)
+		(100,)
+		(101,)
+		(102,)
+		(103,)
+		(104,)
+		(105,)
+		(106,)
+		(107,)
+		(108,)
+		(109,)
+		(110,)
+		(111,)
+		(112,)
+		(113,)
+		(114,)
+		(115,)
+		(116,)
+		(117,)
+		(118,)
+		(119,)
+		(120,)
+		(121,)
+		(122,)
+		(123,)
+		(124,)
+		(125,)
+		(126,)
+		(127,)
+		(128,)
+		(129,)
+		(130,)
+		(131,)
+		(132,)
+		(133,)
+		(134,)
+		(135,)
+		(136,)
+		(137,)
+		(138,)
+		(139,)
+		(140,)
+		(141,)
+		(142,)
+		(143,)
+		(144,)
+		(145,)
+		(146,)
+		(147,)
+		(148,)
+		(149,)
+		(150,)
+		(151,)
+		(152,)
+		(153,)
+		(154,)
+		(155,)
+	cz
+		(0, 1):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00385024
+		(1, 0):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00385024
+		(1, 2):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00533242
+		(2, 1):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00533242
+		(2, 3):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00437345
+		(3, 2):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00437345
+		(3, 4):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00216878
+		(3, 16):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00228972
+		(4, 3):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00216878
+		(4, 5):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00252999
+		(5, 4):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00252999
+		(5, 6):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00175606
+		(6, 5):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00175606
+		(6, 7):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00132512
+		(7, 6):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00132512
+		(7, 8):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00225465
+		(7, 17):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00126719
+		(8, 7):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00225465
+		(8, 9):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00196568
+		(9, 8):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00196568
+		(9, 10):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0026342
+		(10, 9):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0026342
+		(10, 11):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00350122
+		(11, 10):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00350122
+		(11, 12):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00123695
+		(11, 18):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0019957
+		(12, 11):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00123695
+		(12, 13):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00148648
+		(13, 12):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00148648
+		(13, 14):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00148327
+		(14, 13):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00148327
+		(14, 15):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00270765
+		(15, 14):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00270765
+		(15, 19):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00172067
+		(16, 3):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00228972
+		(16, 23):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00216758
+		(17, 7):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00126719
+		(17, 27):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00145039
+		(18, 11):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0019957
+		(18, 31):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00239969
+		(19, 15):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00172067
+		(19, 35):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00493155
+		(20, 21):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00446638
+		(21, 20):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00446638
+		(21, 22):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00197499
+		(21, 36):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00213765
+		(22, 21):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00197499
+		(22, 23):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00224422
+		(23, 16):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00216758
+		(23, 22):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00224422
+		(23, 24):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00764204
+		(24, 23):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00764204
+		(24, 25):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00550758
+		(25, 24):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00550758
+		(25, 26):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.013944
+		(25, 37):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00455084
+		(26, 25):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.013944
+		(26, 27):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0112017
+		(27, 17):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00145039
+		(27, 26):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0112017
+		(27, 28):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00178988
+		(28, 27):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00178988
+		(28, 29):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0029859
+		(29, 28):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0029859
+		(29, 30):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00213012
+		(29, 38):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00217643
+		(30, 29):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00213012
+		(30, 31):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00309001
+		(31, 18):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00239969
+		(31, 30):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00309001
+		(31, 32):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00307156
+		(32, 31):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00307156
+		(32, 33):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00257272
+		(33, 32):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00257272
+		(33, 34):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0017053
+		(33, 39):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00160511
+		(34, 33):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0017053
+		(34, 35):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00352335
+		(35, 19):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00493155
+		(35, 34):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00352335
+		(36, 21):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00213765
+		(36, 41):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00308239
+		(37, 25):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00455084
+		(37, 45):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00778673
+		(38, 29):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00217643
+		(38, 49):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00214854
+		(39, 33):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00160511
+		(39, 53):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00173041
+		(40, 41):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.10465
+		(41, 36):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00308239
+		(41, 40):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.10465
+		(41, 42):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00435791
+		(42, 41):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00435791
+		(42, 43):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00447002
+		(43, 42):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00447002
+		(43, 44):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00201346
+		(43, 56):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00204049
+		(44, 43):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00201346
+		(44, 45):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00310348
+		(45, 37):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00778673
+		(45, 44):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00310348
+		(45, 46):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00278585
+		(46, 45):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00278585
+		(46, 47):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00230469
+		(47, 46):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00230469
+		(47, 48):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00993833
+		(47, 57):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00167138
+		(48, 47):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00993833
+		(48, 49):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00978946
+		(49, 38):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00214854
+		(49, 48):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00978946
+		(49, 50):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00226697
+		(50, 49):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00226697
+		(50, 51):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0025959
+		(51, 50):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0025959
+		(51, 52):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00232422
+		(51, 58):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00148251
+		(52, 51):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00232422
+		(52, 53):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00213432
+		(53, 39):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00173041
+		(53, 52):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00213432
+		(53, 54):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0017618
+		(54, 53):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0017618
+		(54, 55):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.001901
+		(55, 54):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.001901
+		(55, 59):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00204494
+		(56, 43):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00204049
+		(56, 63):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00202508
+		(57, 47):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00167138
+		(57, 67):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00264239
+		(58, 51):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00148251
+		(58, 71):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00221865
+		(59, 55):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00204494
+		(59, 75):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00139348
+		(60, 61):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00857082
+		(61, 60):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00857082
+		(61, 62):
+			Duration: 6.8e-08 sec.
+			Error Rate: 1
+		(61, 76):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00233819
+		(62, 61):
+			Duration: 6.8e-08 sec.
+			Error Rate: 1
+		(62, 63):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00216991
+		(63, 56):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00202508
+		(63, 62):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00216991
+		(63, 64):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00209164
+		(64, 63):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00209164
+		(64, 65):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00251744
+		(65, 64):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00251744
+		(65, 66):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00216609
+		(65, 77):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00157477
+		(66, 65):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00216609
+		(66, 67):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00256695
+		(67, 57):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00264239
+		(67, 66):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00256695
+		(67, 68):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00330484
+		(68, 67):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00330484
+		(68, 69):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00261913
+		(69, 68):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00261913
+		(69, 70):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00180522
+		(69, 78):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00212481
+		(70, 69):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00180522
+		(70, 71):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00239971
+		(71, 58):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00221865
+		(71, 70):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00239971
+		(71, 72):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00758546
+		(72, 71):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00758546
+		(72, 73):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00679283
+		(73, 72):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00679283
+		(73, 74):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00354705
+		(73, 79):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00211499
+		(74, 73):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00354705
+		(74, 75):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00228117
+		(75, 59):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00139348
+		(75, 74):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00228117
+		(76, 61):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00233819
+		(76, 81):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00469502
+		(77, 65):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00157477
+		(77, 85):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00288593
+		(78, 69):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00212481
+		(78, 89):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00197512
+		(79, 73):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00211499
+		(79, 93):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00250468
+		(80, 81):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00467194
+		(81, 76):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00469502
+		(81, 80):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00467194
+		(81, 82):
+			Duration: 6.8e-08 sec.
+			Error Rate: 1
+		(82, 81):
+			Duration: 6.8e-08 sec.
+			Error Rate: 1
+		(82, 83):
+			Duration: 6.8e-08 sec.
+			Error Rate: 1
+		(83, 82):
+			Duration: 6.8e-08 sec.
+			Error Rate: 1
+		(83, 84):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00471244
+		(83, 96):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00790851
+		(84, 83):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00471244
+		(84, 85):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00399132
+		(85, 77):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00288593
+		(85, 84):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00399132
+		(85, 86):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00199262
+		(86, 85):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00199262
+		(86, 87):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00187585
+		(87, 86):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00187585
+		(87, 88):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00224046
+		(87, 97):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00188549
+		(88, 87):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00224046
+		(88, 89):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00136539
+		(89, 78):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00197512
+		(89, 88):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00136539
+		(89, 90):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00443172
+		(90, 89):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00443172
+		(90, 91):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00480043
+		(91, 90):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00480043
+		(91, 92):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00240877
+		(91, 98):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00226684
+		(92, 91):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00240877
+		(92, 93):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00312209
+		(93, 79):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00250468
+		(93, 92):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00312209
+		(93, 94):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0020729
+		(94, 93):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0020729
+		(94, 95):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0134232
+		(95, 94):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0134232
+		(95, 99):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.143535
+		(96, 83):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00790851
+		(96, 103):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00257485
+		(97, 87):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00188549
+		(97, 107):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00234101
+		(98, 91):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00226684
+		(98, 111):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00233976
+		(99, 95):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.143535
+		(99, 115):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00373229
+		(100, 101):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00204985
+		(101, 100):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00204985
+		(101, 102):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00256691
+		(101, 116):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00382482
+		(102, 101):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00256691
+		(102, 103):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00301932
+		(103, 96):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00257485
+		(103, 102):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00301932
+		(103, 104):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00211226
+		(104, 103):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00211226
+		(104, 105):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00163878
+		(105, 104):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00163878
+		(105, 106):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00448399
+		(105, 117):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00420165
+		(106, 105):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00448399
+		(106, 107):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00538634
+		(107, 97):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00234101
+		(107, 106):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00538634
+		(107, 108):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00293691
+		(108, 107):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00293691
+		(108, 109):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00264164
+		(109, 108):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00264164
+		(109, 110):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00173909
+		(109, 118):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00224887
+		(110, 109):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00173909
+		(110, 111):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00194665
+		(111, 98):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00233976
+		(111, 110):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00194665
+		(111, 112):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00146251
+		(112, 111):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00146251
+		(112, 113):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00198621
+		(113, 112):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00198621
+		(113, 114):
+			Duration: 6.8e-08 sec.
+			Error Rate: 1
+		(113, 119):
+			Duration: 6.8e-08 sec.
+			Error Rate: 1
+		(114, 113):
+			Duration: 6.8e-08 sec.
+			Error Rate: 1
+		(114, 115):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00795842
+		(115, 99):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00373229
+		(115, 114):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00795842
+		(116, 101):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00382482
+		(116, 121):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00591118
+		(117, 105):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00420165
+		(117, 125):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00370286
+		(118, 109):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00224887
+		(118, 129):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00207868
+		(119, 113):
+			Duration: 6.8e-08 sec.
+			Error Rate: 1
+		(119, 133):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.165181
+		(120, 121):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00270637
+		(121, 116):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00591118
+		(121, 120):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00270637
+		(121, 122):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00595324
+		(122, 121):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00595324
+		(122, 123):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00302413
+		(123, 122):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00302413
+		(123, 124):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00291162
+		(123, 136):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00501356
+		(124, 123):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00291162
+		(124, 125):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00390813
+		(125, 117):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00370286
+		(125, 124):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00390813
+		(125, 126):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00549909
+		(126, 125):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00549909
+		(126, 127):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00251765
+		(127, 126):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00251765
+		(127, 128):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00189113
+		(127, 137):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00494298
+		(128, 127):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00189113
+		(128, 129):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00212732
+		(129, 118):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00207868
+		(129, 128):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00212732
+		(129, 130):
+			Duration: 6.8e-08 sec.
+			Error Rate: 1
+		(130, 129):
+			Duration: 6.8e-08 sec.
+			Error Rate: 1
+		(130, 131):
+			Duration: 6.8e-08 sec.
+			Error Rate: 1
+		(131, 130):
+			Duration: 6.8e-08 sec.
+			Error Rate: 1
+		(131, 132):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00129469
+		(131, 138):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00276215
+		(132, 131):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00129469
+		(132, 133):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00173222
+		(133, 119):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.165181
+		(133, 132):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00173222
+		(133, 134):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00631718
+		(134, 133):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00631718
+		(134, 135):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00155778
+		(135, 134):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00155778
+		(135, 139):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00129457
+		(136, 123):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00501356
+		(136, 143):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0039981
+		(137, 127):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00494298
+		(137, 147):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00468245
+		(138, 131):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00276215
+		(138, 151):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00360503
+		(139, 135):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00129457
+		(139, 155):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00193974
+		(140, 141):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00272798
+		(141, 140):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00272798
+		(141, 142):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00165408
+		(142, 141):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00165408
+		(142, 143):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0207663
+		(143, 136):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0039981
+		(143, 142):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0207663
+		(143, 144):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00635249
+		(144, 143):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00635249
+		(144, 145):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00422669
+		(145, 144):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00422669
+		(145, 146):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00260069
+		(146, 145):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00260069
+		(146, 147):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0021173
+		(147, 137):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00468245
+		(147, 146):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0021173
+		(147, 148):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00188838
+		(148, 147):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00188838
+		(148, 149):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00228644
+		(149, 148):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00228644
+		(149, 150):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00412724
+		(150, 149):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00412724
+		(150, 151):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00334135
+		(151, 138):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00360503
+		(151, 150):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00334135
+		(151, 152):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0304417
+		(152, 151):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0304417
+		(152, 153):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0030584
+		(153, 152):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.0030584
+		(153, 154):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00408258
+		(154, 153):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00408258
+		(154, 155):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00244624
+		(155, 139):
+			Duration: 8e-08 sec.
+			Error Rate: 0.00193974
+		(155, 154):
+			Duration: 6.8e-08 sec.
+			Error Rate: 0.00244624
+	measure
+		(0,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.010498
+		(1,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00476074
+		(2,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00500488
+		(3,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00695801
+		(4,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0246582
+		(5,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00476074
+		(6,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00512695
+		(7,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00695801
+		(8,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0135498
+		(9,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0119629
+		(10,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0200195
+		(11,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0279541
+		(12,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00305176
+		(13,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00500488
+		(14,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00646973
+		(15,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00854492
+		(16,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00964355
+		(17,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00830078
+		(18,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0252686
+		(19,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00366211
+		(20,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0118408
+		(21,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00915527
+		(22,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0117188
+		(23,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0943604
+		(24,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0186768
+		(25,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0146484
+		(26,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.104126
+		(27,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00793457
+		(28,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00915527
+		(29,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.228638
+		(30,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0219727
+		(31,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0668945
+		(32,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0241699
+		(33,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0123291
+		(34,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00488281
+		(35,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.020874
+		(36,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0102539
+		(37,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0478516
+		(38,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0275879
+		(39,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0355225
+		(40,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0180664
+		(41,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.012085
+		(42,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00695801
+		(43,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0161133
+		(44,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0057373
+		(45,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0108643
+		(46,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0216064
+		(47,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0090332
+		(48,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0782471
+		(49,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00830078
+		(50,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0145264
+		(51,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0640869
+		(52,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0169678
+		(53,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0118408
+		(54,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00976562
+		(55,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0217285
+		(56,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00463867
+		(57,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.114014
+		(58,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0306396
+		(59,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.022583
+		(60,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0385742
+		(61,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.015625
+		(62,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00842285
+		(63,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0181885
+		(64,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0117188
+		(65,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0255127
+		(66,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00769043
+		(67,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0457764
+		(68,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0186768
+		(69,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0220947
+		(70,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0107422
+		(71,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0551758
+		(72,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0098877
+		(73,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0177002
+		(74,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0296631
+		(75,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00366211
+		(76,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0118408
+		(77,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0100098
+		(78,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00561523
+		(79,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.149902
+		(80,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.036377
+		(81,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0516357
+		(82,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.499023
+		(83,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.234741
+		(84,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0135498
+		(85,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00964355
+		(86,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0147705
+		(87,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00695801
+		(88,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.015625
+		(89,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0473633
+		(90,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0202637
+		(91,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00878906
+		(92,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.010498
+		(93,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0360107
+		(94,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0106201
+		(95,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00927734
+		(96,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0733643
+		(97,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00891113
+		(98,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00427246
+		(99,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0118408
+		(100,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0131836
+		(101,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0419922
+		(102,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0247803
+		(103,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.145752
+		(104,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0111084
+		(105,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00622559
+		(106,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.012207
+		(107,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0201416
+		(108,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0196533
+		(109,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0057373
+		(110,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0119629
+		(111,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0131836
+		(112,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00671387
+		(113,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.298462
+		(114,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00866699
+		(115,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0101318
+		(116,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0163574
+		(117,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.013916
+		(118,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0203857
+		(119,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.178711
+		(120,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0147705
+		(121,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0318604
+		(122,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00646973
+		(123,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0177002
+		(124,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0090332
+		(125,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0368652
+		(126,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00976562
+		(127,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0270996
+		(128,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00952148
+		(129,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0146484
+		(130,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.498413
+		(131,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00805664
+		(132,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00866699
+		(133,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0252686
+		(134,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00683594
+		(135,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0224609
+		(136,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00842285
+		(137,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0078125
+		(138,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00585938
+		(139,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00866699
+		(140,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.010376
+		(141,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.010498
+		(142,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0111084
+		(143,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0106201
+		(144,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0142822
+		(145,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0454102
+		(146,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00598145
+		(147,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00830078
+		(148,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0098877
+		(149,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0118408
+		(150,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0126953
+		(151,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0057373
+		(152,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.034668
+		(153,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.114502
+		(154,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.0102539
+		(155,):
+			Duration: 2.584e-06 sec.
+			Error Rate: 0.00720215
+	sx
+		(0,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000481144
+		(1,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000342777
+		(2,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000162217
+		(3,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000446621
+		(4,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000306317
+		(5,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000390841
+		(6,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000371095
+		(7,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000144486
+		(8,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000263541
+		(9,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000225461
+		(10,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000160036
+		(11,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000278733
+		(12,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000280299
+		(13,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000254973
+		(14,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000476113
+		(15,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000121976
+		(16,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000605991
+		(17,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000343482
+		(18,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000359453
+		(19,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000217639
+		(20,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000413141
+		(21,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00020661
+		(22,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000530464
+		(23,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000183388
+		(24,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000520322
+		(25,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000283887
+		(26,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.0038933
+		(27,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.0004341
+		(28,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000458701
+		(29,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000471229
+		(30,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000805118
+		(31,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000302012
+		(32,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000279261
+		(33,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000174802
+		(34,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000460218
+		(35,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000111668
+		(36,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00247815
+		(37,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000917991
+		(38,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000471437
+		(39,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000569381
+		(40,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000243249
+		(41,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000577548
+		(42,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000352573
+		(43,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00030429
+		(44,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000354712
+		(45,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000434257
+		(46,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000451382
+		(47,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000115963
+		(48,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00284143
+		(49,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000477021
+		(50,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00029267
+		(51,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000251705
+		(52,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000249675
+		(53,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000132903
+		(54,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000339414
+		(55,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000216425
+		(56,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000328021
+		(57,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000468727
+		(58,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000215412
+		(59,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000341753
+		(60,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000616349
+		(61,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000249393
+		(62,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00158304
+		(63,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00024314
+		(64,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000698335
+		(65,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000173909
+		(66,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000272256
+		(67,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000302547
+		(68,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000646312
+		(69,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000171948
+		(70,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000201751
+		(71,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000857357
+		(72,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000494715
+		(73,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000399755
+		(74,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00031149
+		(75,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000172235
+		(76,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000395373
+		(77,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000316651
+		(78,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000444044
+		(79,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000604287
+		(80,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000244893
+		(81,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000279474
+		(82,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 1
+		(83,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000560433
+		(84,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000612581
+		(85,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000185024
+		(86,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00056294
+		(87,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000604488
+		(88,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000167748
+		(89,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000264703
+		(90,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00130269
+		(91,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000514832
+		(92,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000395377
+		(93,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000238387
+		(94,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00014803
+		(95,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000743881
+		(96,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000595879
+		(97,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000229219
+		(98,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000276202
+		(99,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00038276
+		(100,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000490008
+		(101,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000325905
+		(102,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000402502
+		(103,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000294055
+		(104,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000333351
+		(105,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000199186
+		(106,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000731662
+		(107,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000385161
+		(108,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000604401
+		(109,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000191816
+		(110,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000341745
+		(111,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000284378
+		(112,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000310067
+		(113,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 1
+		(114,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000255487
+		(115,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000202487
+		(116,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.0010293
+		(117,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000655233
+		(118,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000370314
+		(119,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 1
+		(120,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000347805
+		(121,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000520773
+		(122,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000529062
+		(123,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000542704
+		(124,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000734893
+		(125,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00035961
+		(126,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000471714
+		(127,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00033879
+		(128,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000590441
+		(129,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000240776
+		(130,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 1
+		(131,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000316928
+		(132,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000250929
+		(133,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000286921
+		(134,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000551336
+		(135,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00019621
+		(136,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00067568
+		(137,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000446042
+		(138,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000310188
+		(139,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000216567
+		(140,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000403529
+		(141,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000593672
+		(142,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000314287
+		(143,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000244724
+		(144,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000802414
+		(145,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000263041
+		(146,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000259501
+		(147,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000137841
+		(148,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000274391
+		(149,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000266111
+		(150,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000294199
+		(151,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000345019
+		(152,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00021288
+		(153,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000346257
+		(154,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000318029
+		(155,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000310235
+	if_else
+	id
+		(0,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000481144
+		(1,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000342777
+		(2,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000162217
+		(3,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000446621
+		(4,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000306317
+		(5,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000390841
+		(6,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000371095
+		(7,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000144486
+		(8,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000263541
+		(9,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000225461
+		(10,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000160036
+		(11,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000278733
+		(12,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000280299
+		(13,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000254973
+		(14,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000476113
+		(15,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000121976
+		(16,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000605991
+		(17,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000343482
+		(18,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000359453
+		(19,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000217639
+		(20,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000413141
+		(21,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00020661
+		(22,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000530464
+		(23,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000183388
+		(24,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000520322
+		(25,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000283887
+		(26,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.0038933
+		(27,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.0004341
+		(28,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000458701
+		(29,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000471229
+		(30,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000805118
+		(31,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000302012
+		(32,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000279261
+		(33,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000174802
+		(34,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000460218
+		(35,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000111668
+		(36,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00247815
+		(37,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000917991
+		(38,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000471437
+		(39,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000569381
+		(40,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000243249
+		(41,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000577548
+		(42,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000352573
+		(43,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00030429
+		(44,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000354712
+		(45,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000434257
+		(46,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000451382
+		(47,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000115963
+		(48,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00284143
+		(49,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000477021
+		(50,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00029267
+		(51,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000251705
+		(52,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000249675
+		(53,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000132903
+		(54,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000339414
+		(55,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000216425
+		(56,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000328021
+		(57,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000468727
+		(58,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000215412
+		(59,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000341753
+		(60,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000616349
+		(61,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000249393
+		(62,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00158304
+		(63,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00024314
+		(64,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000698335
+		(65,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000173909
+		(66,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000272256
+		(67,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000302547
+		(68,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000646312
+		(69,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000171948
+		(70,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000201751
+		(71,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000857357
+		(72,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000494715
+		(73,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000399755
+		(74,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00031149
+		(75,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000172235
+		(76,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000395373
+		(77,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000316651
+		(78,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000444044
+		(79,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000604287
+		(80,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000244893
+		(81,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000279474
+		(82,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 1
+		(83,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000560433
+		(84,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000612581
+		(85,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000185024
+		(86,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00056294
+		(87,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000604488
+		(88,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000167748
+		(89,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000264703
+		(90,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00130269
+		(91,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000514832
+		(92,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000395377
+		(93,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000238387
+		(94,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00014803
+		(95,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000743881
+		(96,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000595879
+		(97,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000229219
+		(98,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000276202
+		(99,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00038276
+		(100,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000490008
+		(101,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000325905
+		(102,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000402502
+		(103,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000294055
+		(104,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000333351
+		(105,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000199186
+		(106,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000731662
+		(107,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000385161
+		(108,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000604401
+		(109,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000191816
+		(110,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000341745
+		(111,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000284378
+		(112,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000310067
+		(113,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 1
+		(114,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000255487
+		(115,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000202487
+		(116,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.0010293
+		(117,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000655233
+		(118,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000370314
+		(119,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 1
+		(120,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000347805
+		(121,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000520773
+		(122,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000529062
+		(123,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000542704
+		(124,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000734893
+		(125,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00035961
+		(126,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000471714
+		(127,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00033879
+		(128,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000590441
+		(129,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000240776
+		(130,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 1
+		(131,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000316928
+		(132,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000250929
+		(133,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000286921
+		(134,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000551336
+		(135,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00019621
+		(136,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00067568
+		(137,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000446042
+		(138,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000310188
+		(139,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000216567
+		(140,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000403529
+		(141,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000593672
+		(142,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000314287
+		(143,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000244724
+		(144,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000802414
+		(145,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000263041
+		(146,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000259501
+		(147,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000137841
+		(148,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000274391
+		(149,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000266111
+		(150,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000294199
+		(151,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000345019
+		(152,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00021288
+		(153,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000346257
+		(154,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000318029
+		(155,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000310235
+	x
+		(0,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000481144
+		(1,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000342777
+		(2,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000162217
+		(3,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000446621
+		(4,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000306317
+		(5,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000390841
+		(6,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000371095
+		(7,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000144486
+		(8,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000263541
+		(9,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000225461
+		(10,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000160036
+		(11,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000278733
+		(12,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000280299
+		(13,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000254973
+		(14,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000476113
+		(15,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000121976
+		(16,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000605991
+		(17,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000343482
+		(18,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000359453
+		(19,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000217639
+		(20,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000413141
+		(21,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00020661
+		(22,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000530464
+		(23,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000183388
+		(24,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000520322
+		(25,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000283887
+		(26,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.0038933
+		(27,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.0004341
+		(28,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000458701
+		(29,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000471229
+		(30,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000805118
+		(31,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000302012
+		(32,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000279261
+		(33,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000174802
+		(34,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000460218
+		(35,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000111668
+		(36,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00247815
+		(37,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000917991
+		(38,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000471437
+		(39,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000569381
+		(40,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000243249
+		(41,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000577548
+		(42,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000352573
+		(43,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00030429
+		(44,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000354712
+		(45,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000434257
+		(46,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000451382
+		(47,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000115963
+		(48,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00284143
+		(49,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000477021
+		(50,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00029267
+		(51,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000251705
+		(52,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000249675
+		(53,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000132903
+		(54,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000339414
+		(55,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000216425
+		(56,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000328021
+		(57,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000468727
+		(58,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000215412
+		(59,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000341753
+		(60,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000616349
+		(61,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000249393
+		(62,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00158304
+		(63,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00024314
+		(64,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000698335
+		(65,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000173909
+		(66,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000272256
+		(67,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000302547
+		(68,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000646312
+		(69,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000171948
+		(70,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000201751
+		(71,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000857357
+		(72,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000494715
+		(73,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000399755
+		(74,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00031149
+		(75,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000172235
+		(76,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000395373
+		(77,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000316651
+		(78,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000444044
+		(79,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000604287
+		(80,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000244893
+		(81,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000279474
+		(82,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 1
+		(83,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000560433
+		(84,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000612581
+		(85,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000185024
+		(86,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00056294
+		(87,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000604488
+		(88,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000167748
+		(89,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000264703
+		(90,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00130269
+		(91,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000514832
+		(92,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000395377
+		(93,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000238387
+		(94,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00014803
+		(95,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000743881
+		(96,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000595879
+		(97,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000229219
+		(98,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000276202
+		(99,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00038276
+		(100,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000490008
+		(101,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000325905
+		(102,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000402502
+		(103,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000294055
+		(104,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000333351
+		(105,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000199186
+		(106,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000731662
+		(107,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000385161
+		(108,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000604401
+		(109,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000191816
+		(110,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000341745
+		(111,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000284378
+		(112,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000310067
+		(113,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 1
+		(114,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000255487
+		(115,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000202487
+		(116,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.0010293
+		(117,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000655233
+		(118,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000370314
+		(119,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 1
+		(120,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000347805
+		(121,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000520773
+		(122,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000529062
+		(123,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000542704
+		(124,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000734893
+		(125,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00035961
+		(126,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000471714
+		(127,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00033879
+		(128,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000590441
+		(129,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000240776
+		(130,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 1
+		(131,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000316928
+		(132,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000250929
+		(133,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000286921
+		(134,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000551336
+		(135,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00019621
+		(136,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00067568
+		(137,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000446042
+		(138,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000310188
+		(139,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000216567
+		(140,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000403529
+		(141,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000593672
+		(142,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000314287
+		(143,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000244724
+		(144,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000802414
+		(145,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000263041
+		(146,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000259501
+		(147,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000137841
+		(148,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000274391
+		(149,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000266111
+		(150,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000294199
+		(151,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000345019
+		(152,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.00021288
+		(153,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000346257
+		(154,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000318029
+		(155,):
+			Duration: 3.6e-08 sec.
+			Error Rate: 0.000310235
