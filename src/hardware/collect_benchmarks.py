@@ -45,6 +45,7 @@ def compute_bell_fidelity(result):
 
 def append_to_history(timestamp, backend, qubit_str, benchmark, sample_size, metric_name, metric_value):
     history_csv = "data/timeseries/benchmark_history.csv"
+    os.makedirs(os.path.dirname(history_csv), exist_ok=True)
     
     df = pd.DataFrame([{
         "timestamp": timestamp,
