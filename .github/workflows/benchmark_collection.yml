@@ -1,0 +1,45 @@
+name: Collect Hardware Benchmarks
+
+on:
+  schedule:
+    # Run every 30 minutes
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect-benchmarks:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install qiskit-ibm-runtime pandas numpy
+          
+      - name: Collect Completed Jobs
+        env:
+          QISKIT_IBM_TOKEN: ${{ secrets.QISKIT_IBM_TOKEN }}
+        run: |
+          python src/hardware/collect_benchmarks.py
+          
+      - name: Commit and Push Benchmark Data
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          # Only add if the directories exist
+          if [ -d "data/jobs" ]; then git add data/jobs/; fi
+          if [ -d "data/timeseries" ]; then git add data/timeseries/; fi
+          git commit -m "chore: collect completed hardware benchmarks" || echo "No changes to commit"
+          git pull --rebase origin main
+          git push
