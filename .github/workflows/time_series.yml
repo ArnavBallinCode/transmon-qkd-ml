@@ -43,7 +43,7 @@ jobs:
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/hardware/ibm_marrakesh_qubit_calibration.csv
-          git add data/hardware/ibm_marrakesh_readout_errors.csv
+          git add data/hardware/ibm_marrakesh_calibration_timeseries.csv
+          git add data/hardware/ibm_marrakesh_readout_timeseries.csv
           git commit -m "chore: append automated time-series calibration data" || echo "No changes to commit"
           git push

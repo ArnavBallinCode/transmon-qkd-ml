@@ -31,7 +31,7 @@ for q in range(backend.num_qubits):
 
 df = pd.DataFrame(rows)
 
-csv_path = "data/hardware/ibm_marrakesh_readout_errors.csv"
+csv_path = "data/hardware/ibm_marrakesh_readout_timeseries.csv"
 file_exists = os.path.isfile(csv_path)
 
 # Append to CSV if it exists, otherwise write new file with header
