@@ -8,7 +8,7 @@ from qiskit_ibm_runtime import QiskitRuntimeService
 # Use token from environment if available (for GitHub Actions)
 ibm_token = os.environ.get("QISKIT_IBM_TOKEN")
 if ibm_token:
-    service = QiskitRuntimeService(channel="ibm_quantum", token=ibm_token)
+    service = QiskitRuntimeService(channel="ibm_quantum_platform", token=ibm_token)
 else:
     service = QiskitRuntimeService()
 
