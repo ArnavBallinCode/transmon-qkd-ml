@@ -8,6 +8,9 @@ on:
 
 permissions:
   contents: write
+concurrency:
+  group: hardware-data
+  cancel-in-progress: false
 
 jobs:
   extract-data:
