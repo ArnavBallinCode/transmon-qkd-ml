@@ -9,6 +9,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: hardware-data
+  cancel-in-progress: false
+
 jobs:
   collect-benchmarks:
     runs-on: ubuntu-latest
