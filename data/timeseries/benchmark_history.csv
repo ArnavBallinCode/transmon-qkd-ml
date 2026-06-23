@@ -149,3 +149,5 @@ timestamp,backend,physical_qubit,benchmark,sample_size,metric_name,metric_value
 2026-06-22T19:55:02.624692+00:00,ibm_marrakesh,105_117,BellState,1000,Fidelity,0.947
 2026-06-22T22:09:40.274319+00:00,ibm_marrakesh,119,BB84,1000,QBER,0.029473684210526315
 2026-06-22T22:09:40.874995+00:00,ibm_marrakesh,113_119,BellState,1000,Fidelity,0.65
+2026-06-23T04:07:37.895351+00:00,ibm_marrakesh,111,BB84,1000,QBER,0.006276150627615063
+2026-06-23T04:07:38.429918+00:00,ibm_marrakesh,98_111,BellState,1000,Fidelity,0.987
