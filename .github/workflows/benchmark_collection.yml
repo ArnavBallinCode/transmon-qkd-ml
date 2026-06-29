@@ -1,9 +1,6 @@
 name: Collect Hardware Benchmarks
 
 on:
-  schedule:
-    # Run every 30 minutes
-    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 permissions:
