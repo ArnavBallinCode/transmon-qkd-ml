@@ -2,10 +2,10 @@
 
 **Overview & Motivation:** This project evaluates quantum algorithms (like Quantum Key Distribution and Entanglement Fidelity) on noisy transmon qubits. By continuously monitoring IBM Quantum hardware, we use Machine Learning to predict hardware degradation and eventually build an Algorithm-Aware Qubit Recommendation Engine.
 
-## The Hardware Automation Pipeline
-Because IBM Quantum operates on asynchronous queueing systems, we have built a fully automated GitHub Actions pipeline that independently collects both hardware calibration metadata and executes actual quantum circuits 24/7 without timing out.
+## The Hardware Automation Pipeline (Phase Complete)
+Because IBM Quantum operates on asynchronous queueing systems, we built a fully automated GitHub Actions pipeline that independently collected both hardware calibration metadata and executed actual quantum circuits over a multi-week period. **Note: Active data collection has been paused as we have gathered sufficient longitudinal data for the ML models.**
 
-### 1. Calibration Data Collection (Every 4 Hours)
+### 1. Calibration Data Collection (Complete)
 The pipeline connects to the `ibm_marrakesh` backend and downloads the latest physics calibration metadata for all 156 qubits. This consumes **no QPU time** as it is merely fetching IBM's calibration snapshots.
 *   **$T_1$ (Relaxation Time)**: How long a qubit can hold its energy state.
 *   **$T_2$ (Dephasing Time)**: How long a qubit can hold its phase/superposition.
