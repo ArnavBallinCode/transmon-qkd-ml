@@ -1,9 +1,6 @@
 name: IBM Quantum Time-Series Extraction
 
 on:
-  schedule:
-    # Run every 4 hours
-    - cron: '0 */4 * * *'
   workflow_dispatch: # Allows manual trigger from the GitHub UI
 
 permissions:
