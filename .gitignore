@@ -1,3 +1,13 @@
 .env
 .DS_Store
 report/
+# Paper drafts live in the private repo ArnavBallinCode/transmon-qkd-paper
+journal_paper/
+journal_paper.pdf
+transmon_paper.pdf
+extended_abstract.*
+research_poster*.html
+/paper/
+results/figures/architecture_diagram*.jpg
+results/figures/methodology_diagram*.jpg
+results/figures/university_logo.jpg

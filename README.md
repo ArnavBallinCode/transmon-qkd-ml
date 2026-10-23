@@ -31,6 +31,31 @@ By amassing a massive longitudinal dataset of:
 
 We train predictive Machine Learning models (Random Forests, Neural Networks) capable of **Algorithm-Aware Qubit Recommendation**. The final engine will allow a user to input a specific algorithm (e.g., Teleportation) and automatically receive a recommendation for the absolute best physical qubits available on the IBM chip at that exact moment in time based on our historical drift models.
 
+## Paper
+The manuscripts (7-page conference version and 23-page extended version), their
+figures, bibliography and earlier drafts are maintained in a separate **private**
+repository: **[ArnavBallinCode/transmon-qkd-paper](https://github.com/ArnavBallinCode/transmon-qkd-paper)**
+(access for collaborators only).
+
+Everything the paper reports is regenerated from this repository by one script:
+
+```bash
+python3 analysis/paper_analysis.py
+```
+
+It writes all quoted numbers to `results/paper/numbers.json`, the per-run joined
+tables to `results/paper/campaign_*_joined.csv`, and all data figures to
+`results/paper/figures/`. The heavy-hex coupling map and gate durations of
+`ibm_marrakesh` (exported from Qiskit's `FakeMarrakesh`) are in
+`results/paper/marrakesh_topology.json`. To update the paper, run the script and then
+`scripts/sync_figures.sh` in the paper repository.
+
+> **Note on earlier results.** The re-analysis found that a closed-form expression
+> reproduces the simulator exactly, that the transpiler cancels the BB84 Hadamards so
+> hardware QBER is dominated by readout error, and that the calibrated readout error
+> alone predicts hardware QBER better than the simulation-trained models. See
+> `REVIEW_NOTES.md` in the paper repository for details.
+
 ## Local Reproduction
 1. Provide your `QISKIT_IBM_TOKEN` in `.env`.
 2. Generate base models: `conda run -n transmon-qkd python src/ml/train_models.py`
